@@ -17,7 +17,7 @@ Your URL has to be given above.
 ``` bash
 cd Find-Public-IP-
 ```
-Now you can run qping
+Now you can run TSB
 ``` bash
 Python TSB.py
 ```
