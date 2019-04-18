@@ -23,8 +23,7 @@ Now you can run qping
 ``` bash
 Python TSB.py
 ```
-![Alt text](https://github.com/tamilspyboysofficial/Find-Public-IP/1.png
-?raw=true " Step 1")
+![Alt text](https://github.com/tamilspyboysofficial/Find-Public-IP/1.png?raw=true " Step 1")
 	 
 
 
