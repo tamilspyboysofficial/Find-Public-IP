@@ -21,7 +21,7 @@ Now you can run TSB
 ``` bash
 Python TSB.py
 ```
-![Alt text](https://raw.githubusercontent.com/tamilspyboysofficial/Find-Public-IP/master/1.png?raw=true " Step 1")
+![Alt text](https://raw.githubusercontent.com/tamilspyboysofficial/Find-Public-IP/master/img/1.png?raw=true " Step 1")
 	 
 
 
