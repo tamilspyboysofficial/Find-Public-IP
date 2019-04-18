@@ -4,7 +4,7 @@ I hope to find Your Public IP address in simple python code
 its my first try!!!
 
 # Supported OS:
-Linux and Windows
+Linux 
 # Pre requisites:
 #### •	Python 
 #### •	requests module needs to be installed.
