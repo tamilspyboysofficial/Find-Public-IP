@@ -9,13 +9,11 @@ Linux and Windows
 #### •	Python 
 #### •	requests module needs to be installed.
 # Installation:
-## pip install requests 
-To run the file
 ``` bash
 https://github.com/tamilspyboysofficial/Find-Public-IP
 ```
 Your URL has to be given above.
-Now navigate to qping directory
+
 ``` bash
 cd Find-Public-IP-
 ```
